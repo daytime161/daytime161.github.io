@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://daytime161.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Aug 2019 12:29:26 +0800</lastBuildDate>
+    
+	<atom:link href="https://daytime161.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>QQ群推荐</title>
+      <link>https://daytime161.github.io/post/qqun/</link>
+      <pubDate>Fri, 23 Aug 2019 12:29:26 +0800</pubDate>
+      
+      <guid>https://daytime161.github.io/post/qqun/</guid>
+      <description> QQ群推荐 我的世界插件交流群 1.注意事项与功能  演员就请移步[斜眼笑]
+ 群里的panda是个大佬,*有不懂*的可以多多给他提问哦
+ 群主会不定时发送 我的世界插件教程和java基础的
+ 演员请自行原地爆炸
+  2.群内截图 [斜眼笑]
+加入方式 加管理qq 我[day__time]的qq:477704359
+群主qq：368289112
+fc的qq:2070435720
+#加上之后说明来意我们会拉你进群！！！
+参考文献 1. daytime161.github.io
+ ————————————本篇bolg by -----day__time  </description>
+    </item>
+    
+  </channel>
+</rss>
